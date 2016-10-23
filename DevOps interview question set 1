@@ -1,0 +1,125 @@
+
+
+    Using the OSI model, which layer has the responsibility of making sure that the packet gets where it is supposed to go?
+
+    What is the subnet mask, network address and broadcast address for the following address: 123.65.47.62/22?
+
+    What command is used to show all open ports and/or socket connections on a machine?
+
+    What is NAT? What is it used for?
+
+    Which IP ranges/subnets are "private" or "non-routable" (RFC 1918)?
+
+    What is a packet filter and how does it work?
+
+    What is a proxy and how does it work?
+
+    What is ARP and what is it used for?
+
+    What is the difference between TCP and UDP?
+
+    What command is used to show the route table for a machine?
+
+    Explain asynchronous routing?
+
+    What is the purpose of a default gateway?
+
+    A TCP connection on a network can be uniquely defined by 4 things. What are those things?
+
+    When a client running a web browser connects to a web server, what is the source port of the connection?
+
+    What is the destination port of the connection?
+
+    What is SMTP?
+
+    What is an SMTP relay?
+
+    Give the basic scenario of how a mail message is delivered via SMTP
+
+    What function does DNS play on a network?
+
+    What is an A record?
+
+    What is an NS record?
+
+    What is an MX record?
+
+    What is a PTR record?
+
+    What is a DNS forwarder?
+
+    What command is used to lookup DNS records?
+
+    What is meant by "Reverse Lookup"?
+
+    What is LDAP and what is it used for?
+
+    What is a DN in LDAP?
+
+    What is SSH?
+
+    What is SSL?
+
+    What is IDS?
+
+    What is IPS?
+
+    What is the difference between IDS and IPS?
+
+    What is meant by the term "DOS Attack"?
+
+    What is RAID?
+
+    What is swap and what is it used for?
+
+    What command will show the available disk space on the Unix/Linux system?
+
+    How do you determine the public and prive IP addresses, if applicable, of a Unix/Linux system from the command line?
+
+    What Unix/Linux command will alter a file's ownership?
+
+    What Unix/Linux command will alter a file's permissions?
+
+    What Unix/Linux command will show all processes running on a system?
+
+    What Unix/Linux command will show the details of a file(permissions, size, timestamp)?
+
+    What Unix/Linux command would you use to list all currently loaded kernel modules?
+
+    What command would you use to telnet to port 7777 on a machine with IP address 10.10.10.128?
+
+    What Unix/Linux command(s) will show a system's current resource allocations?
+
+    What is the Unix/Linux command to remove a directory and its contents?
+
+    What is the name and location of the system log on a Unix or Linux system?
+
+    What would you do to recover a lost the root password to a Unix/Linux system?
+
+    What is the difference between hardlink and symlink?
+
+    What happens when you remove the source to a symlink?
+
+    What are some of the security risks of symlinks?
+
+    Explain a hardlink
+
+    Where is a filename stored?
+
+    What happens when a hardlink is removed
+
+    how do you know when a file is removed
+
+    Write a locking function in bash
+
+    What is a pre-emptive kernel, what does that mean to you?
+
+    What is an atomic operation?
+
+    How does a switch get a mac address?
+
+    What type of packet to discover a router?
+
+    How does traceroute work?
+
+    A careless sysadmin executes the following command: chmod 444 chmod - what do you do to fix this?
