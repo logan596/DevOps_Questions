@@ -1,0 +1,45 @@
+
+
+You finally got that interview Getting ready for a DevOps interviewfor an awesome DevOps Engineering Job with Company X, congratulations! Company X is pretty smart (or at least, hopefully) for realizing they need a “DevOps guy” (or gal).
+
+Now that you have the interview, what kind of questions might they ask you? After a bit of research, here are 10 pretty good ones that I’ve come across:
+
+1. How does HTTP work? How does a web page appear in a browser?
+
+Basically, to prove that you understand (at a high-level) the infrastructure you’ll be working with, as well as the ability to explain concepts to others. DevOps is about communication too, remember?
+
+2. What are some examples of how you might scale a write/read-heavy application? Why?
+
+Do you know how to scale different kinds of applications? How would you identify bottlenecks? Do you have a reasonable understanding of how to scale an entire enviornment, or migrate to the cloud (or another cloud) if necessary?
+
+3. Tell me about the worst-run/best-run outage you’ve been a part of. What made it bad/well-run?
+
+Take lessons from both failures and successes in dealing with outages. Remember, there's no shame in talking about the mistakes you've learned from.
+
+4. How would you assess how “deployable” a system is?
+
+How do you know when a deployment is ready? How would you manage that deployment?
+
+5. How would you prepare for a migration from one platform to another?
+
+Fairly self-explanatory, how do you handle transitions? How do you document the current state of your environment before moving, and how do you validate everything is as it should be after the fact? 
+
+6. What is the purpose of a post-mortem meeting?
+
+Do you know how to learn from mistakes? How do you get the most value out of post-mortems?
+
+7. How would you make key aspects of a software system traceable?
+
+So that you can figure out what happened quickly if/when something goes wrong. What types of monitoring and alerting are most important to you? What tooling do you use?
+
+8. How do you handle interruptions?
+
+While it’s going to be your job to stop interruptions, how you deal with them now is important for getting an idea of if you know how to fix them quickly and if you know how to make devs and ops work together.
+
+9. How would you deploy software to 5000 systems?
+
+Do you know how you would go about large-scale deployments?
+
+10. What different types of testing need to be carried out on a software system, and what tools would you use to achieve this testing?
+
+For starters, you probably would want to test that your configurations are correct before and after making changes, and know how to validate that your environments are all consistent. Maybe you should try UpGuard? It's free to get started. ;)
