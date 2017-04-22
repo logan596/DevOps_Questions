@@ -1,0 +1,49 @@
+Run on Latest Ubuntu Server.
+
+Assignment-1: Web Server Setup for WordPress
+
+Please create a command-line script, preferably in bash, to perform following tasks in order.
+
+    1.Your script will check if PHP, Mysql & Nginx are installed. If not present, missing packages will be installed.
+    2.The script will then ask user for domain name. (Suppose user enters example.com)
+    3.Create a /etc/hosts entry for example.com pointing to localhost IP.
+    4.Create nginx config file for example.com
+    5.Download WordPress latest version from http://wordpress.org/latest.zip and unzip it locally in example.com document root.
+    6.Create a new mysql database for new WordPress. (database name “example.com_db” )
+    7.Create wp-config.php with proper DB configuration. (You can use wp-config-sample.php as your template)
+    8.You may need to fix file permissions, cleanup temporary files, restart or reload nginx config.
+    9.Tell user to open example.com in browser (if all goes well)
+
+
+Assignment-2: Blogging Command-Line App
+
+Please create a small command-line blogging application which implements following in bash.
+
+For this assignment you need to use a database. You can use sqlite.
+
+    1.blog.sh will be name of application itself.
+    2.blog.sh --help will list help and commands available
+    3.blog.sh post add "title" "content" will add a new blog a new blog post with title and content.
+    4.blog.sh post list will list all blog posts
+    5.blog.sh post search "keyword" will list all blog posts where “keyword” is found in title and/or content.
+    6.blog.sh category add "category-name" create a new category
+    7.blog.sh category list list all categories
+    8.blog.sh category assign <post-id> <cat-id> assign category to post
+    9.blog.sh post add "title" "content" --category "cat-name" will add a new blog a new blog post with title, content and assign a category to it. It category doesn’t exist, it will be created first.
+
+Above are basic commands. We expect you to use your imagination to further improve them.
+
+
+https://careers.rtcamp.com/devops/
+
+https://careers.rtcamp.com/devops/#application-form---devops-engineer
+
+
+Submission Process
+
+    Create a repo on Github so we can review your codes.
+    Once you are done with writing the script, you can head over to job application form.
+    Once we check your codes, we may send you some minor enhancements/tasks to your codes to check your skills further.
+    If you have any doubts/questions, please email us to at hr@rtcamp.com
+
+
