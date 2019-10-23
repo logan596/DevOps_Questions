@@ -1,3 +1,3 @@
 # DevOps_Questions
  
- For those who wants become a DevOps Engineer.
+ For those who wants to become a DevOps Engineer.
